@@ -39,9 +39,9 @@ A secure backend API demonstarting authentication and DevSecOps security scannin
 - Trivy container scanning
 
 Repository:  
- ```
- secure-task-api
-```
+ 
+https://github.com/chunogreg/secure-task-api
+
 
 ### DevSecOps Security Lab  
 A complete DevSecOps security pipeline demonstrating multiple automated security scans.  
@@ -53,9 +53,9 @@ Security tools integrated:
 - OWASP ZAP (DAST)
 
 Repository: 
-```
-  devsecops-security-lab  
-```
+
+  https://github.com/chunogreg/devsecops-security-lab.git  
+
 
 ### Cloud IAM Security Analyzer  
 A light weight cloud security tool that analyzes IAM policy for dangerous permissions and privilege escalation risks.   
@@ -66,9 +66,9 @@ Security checks include:
 - Overly permissive policy detection
 
 Repository:  
-```
-  Cloud-iam-security-analyzer  
-```
+
+  https://github.com/chunogreg/Cloud-iam-security-analyzer  
+
 ---  
 
 ### DevSecOps Focus Areas  
