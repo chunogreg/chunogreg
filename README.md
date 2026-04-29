@@ -1,33 +1,23 @@
 # Gregory Chuno Aniobi 
 
-DeSecOps Engineer | Cloud Security | CI/CD Security Automation  
+Backend Engineer | API Development | Secure System  
 ___
 
-I am a DevSecOps enthusiast focused on building secure applications and automating security within modern CI/CD pipelines. My work centers on integrating security tools into development workflows and analyzing cloud security risks.
+Backend Developer with experience building secure and scalable REST APIs using Node.js and Express. 
 
 ---
 
-### DevSecOps Skills  
-- CI/CD Security Pipelines
-- Static Application Security Testing
-- Dynamic Application Security Testing
-- Container Security Scanning
-- Cloud IAM Security Analysis
-- Secure API Development
+## Projects  
+- Global Skill Passport (SaaS)
+- Team Task Management API (RBAC)
+- Cloud IAM Security Analyzer
+- DevSecOps Security Lab
 
 ---
 
-## Technology and Tools  
-Node.js  
-Docker  
-GitHub Actions  
-Semgrep  
-Trivy  
-OWASP ZAP
-
-## DevSecOps Security Projects
+## Projects
   
-### Secure Task API
+### Team Task Management API (RBAC)
 
 A secure backend API demonstarting authentication and DevSecOps security scanning.
 #### Key features:
@@ -38,52 +28,34 @@ A secure backend API demonstarting authentication and DevSecOps security scannin
 - Semgrep SAST
 - Trivy container scanning
 
-Repository:  
- 
-https://github.com/chunogreg/secure-task-api
+Repository:  https://github.com/chunogreg/team-task-api
+Live API: https://secure-task-api-tn15.onrender.com/
+Swagger Docs: https://secure-task-api-tn15.onrender.com/api-docs/
 
 
-### DevSecOps Security Lab  
-A complete DevSecOps security pipeline demonstrating multiple automated security scans.  
+### Global Skill Passport (SaaS)
+A full-stack SaaS application with dynamic UI and backend integration for international  university.   
 
-Security tools integrated:  
-- Semgrep (SAST)
-- Gitleak (security scanning)
-- Trivy (container scanning)
-- OWASP ZAP (DAST)
-
-Repository: 
-
-  https://github.com/chunogreg/devsecops-security-lab.git  
-
+Repository:  https://github.com/chunogreg/global-skill-passport
+Live API: https://global-skill-passport.vercel.app
 
 ### Cloud IAM Security Analyzer  
 A light weight cloud security tool that analyzes IAM policy for dangerous permissions and privilege escalation risks.   
-
-Security checks include:  
-- Wildcard permission detection
-- Privilege escalation risk analysis
-- Overly permissive policy detection
 
 Repository:  
 
   https://github.com/chunogreg/Cloud-iam-security-analyzer  
 
+### DevSecOps Security Lab  
+A complete DevSecOps security pipeline demonstrating multiple automated security scans.  
+
+Repository: 
+
+  https://github.com/chunogreg/devsecops-security-lab.git 
+
 ---  
 
-### DevSecOps Focus Areas  
-Cloud Security  
-Infrastructure Security  
-CI/CD Security Automation  
-Container Security  
-
-### Learning Goals  
-- Kubernetes Security
-- Advanced Cloud IAM Security
-- Infrastructure as Code Security
-- DevSecOps automation at scale
-
-### DevSecOps Portfolio:  
-https://chunogreg.github.io/devsecops-portfolio
+### Portfolio:  
+https://chunogreg.github.io/chunogreg-portfolio
 
   
