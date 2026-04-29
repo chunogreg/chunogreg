@@ -28,15 +28,15 @@ A secure backend API demonstarting authentication and DevSecOps security scannin
 - Semgrep SAST
 - Trivy container scanning
 
-Repository:  https://github.com/chunogreg/team-task-api
-Live API: https://secure-task-api-tn15.onrender.com/
+Repository:  https://github.com/chunogreg/team-task-api   
+Live API: https://secure-task-api-tn15.onrender.com/   
 Swagger Docs: https://secure-task-api-tn15.onrender.com/api-docs/
 
 
 ### Global Skill Passport (SaaS)
 A full-stack SaaS application with dynamic UI and backend integration for international  university.   
 
-Repository:  https://github.com/chunogreg/global-skill-passport
+Repository:  https://github.com/chunogreg/global-skill-passport   
 Live API: https://global-skill-passport.vercel.app
 
 ### Cloud IAM Security Analyzer  
