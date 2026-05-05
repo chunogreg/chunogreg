@@ -1,6 +1,6 @@
 # Gregory Chuno Aniobi 
 
-Backend Developer focused on building secure and scalable REST APIs. 
+Technical Support Engineer | Backend & API Systems | Troubleshooting, Debugging, Authentication & System Reliability
 
 ---
 
