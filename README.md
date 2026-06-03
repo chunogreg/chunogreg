@@ -1,27 +1,23 @@
-# Gregory Chuno Aniobi 
+# Hi, I'm Gregory Chuno Aniobi 👋
+**Backend Engineer & Technical Support Specialist**
 
-Technical Support Engineer | Backend & API Systems | Troubleshooting, Debugging, Authentication & System Reliability
+Highly focused on building secure, performant REST APIs, automated workflows, and diagnosing complex system behaviors.
 
----
+### 🛠️ Tech Stack & Skills
+- **Languages/Frameworks:** Node.js, Express.js, Next.js, JavaScript (ES6+)
+- **Databases/Cloud:** MongoDB, Supabase, RESTful APIs
+- **DevOps/Security:** Docker, GitHub Actions (CI/CD), IAM Policy Analysis, Automated Testing
 
-## Featured Projects  
-  
-### Team Task Management API (RBAC)
-
-A secure backend API demonstarting authentication and DevSecOps security scanning.
-
-API Docs: https://secure-task-api-tn15.onrender.com/api-docs/
-
-### Global Skill Passport (SaaS)
-A full-stack SaaS application with dynamic UI and backend integration helping user find the best universities worldwide based on budget and requirements.   
-
-Live API: https://global-skill-passport.vercel.app
-
- ### Skills
-- Node.js, Express
-- PostgreSQL, Supabase
-- Authentication (JWT), RBAC
-- REST API Design
+### 🚀 Featured Technical Projects
+* **Team Task Management API** 
+  _Node.js, Express, MongoDB_
+  - Features an automated CI/CD pipeline, automated unit test suites, JWT refresh token rotation, and token reuse protection.
+* **Global Skill Passport**
+  _Next.js, Supabase_
+  - Full-stack production application integrating role-based access control (RBAC), secure client-to-backend API routing, and dynamic data storage.
+* **IAM Policy Analyzer**
+  _Node.js, CLI Tool_
+  - Security-focused utility designed to systematically parse configurations for privilege escalation flows and risky wildcard permissions.
 
 ### Portfolio 
 https://chunogreg.github.io/chunogreg-portfolio   
